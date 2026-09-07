@@ -1,6 +1,6 @@
 # Regwrite
 
-VB6 working copy of `Regwrite` from Dave Robinson's OneDrive Historical Dev `VB` folder. Project title: RegWrite. Output: `RegWrite.exe`. Writes values to the registry. `VersionCompanyName`: Freelance.
+Freelance VB6 RegWrite (`RegWrite.exe`) that writes registry values from command-line ROOT/KEY/VALUE/DATA/TYPE args (supports REG_SZ and REG_EXPAND_SZ, plus `$time$`/`$date$`/`$computername$`/`$username$` substitutions). Open `Regwrite.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
